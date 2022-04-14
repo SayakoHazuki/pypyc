@@ -63,7 +63,7 @@ Returns `True` if message contains attachments
 Returns message content in text  
 
 
-## Message
+## Circular
 ### Properties
 `title` _str_  
 Title of the circular  
